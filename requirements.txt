@@ -2,3 +2,7 @@ PyQt6
 qasync
 aiohttp
 requests
+browser_use
+selenium
+faker
+webdriver-manager
