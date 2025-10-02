@@ -1,0 +1,5 @@
+network.log
+user.json
+/browser/__pycache__
+/browser/session/__pycache__
+proxy/__pycache__
